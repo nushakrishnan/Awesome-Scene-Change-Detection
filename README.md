@@ -16,6 +16,10 @@ There are some similar repositories available, but it appears that they have not
 
 ## Paper
 
+#### 2026
+
+- Chamelion: Reliable Change Detection for Long-Term LiDAR Mapping in Transient Environments, `RAL`. [[Paper](https://arxiv.org/pdf/2602.08189)] [[Code](https://github.com/OREOCHIZ/chamelion)] [[Website](https://chamelion-pages.github.io/)]
+
 #### 2025
 
 - Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms, `ICRA`. [[Paper](https://arxiv.org/pdf/2409.16850)] [[Code](https://github.com/ChadLin9596/Robust-Scene-Change-Detection)] [[Website](https://chadlin9596.github.io/projects/2024-image-cd.html)]
@@ -174,6 +178,7 @@ This project is part of [UMAD](https://github.com/IMRL/UMAD). If you find this w
   organization={IEEE}
 }
 ```
+
 
 
 
