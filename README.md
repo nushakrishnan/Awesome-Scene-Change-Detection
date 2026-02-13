@@ -74,6 +74,7 @@ There are some similar repositories available, but it appears that they have not
 
 #### 2022
 
+- Objects Can Move: 3D Change Detection by Geometric Transformation Constistency, `ECCV`. [[Paper](https://arxiv.org/pdf/2208.09870)] [[Code](https://github.com/katadam/ObjectsCanMove)]
 - ![page](https://img.shields.io/badge/Pretrain-model-blue) Dual Task Learning by Leveraging Both Dense Correspondence and Mis-Correspondence for Robust Change Detection With Imperfect Matches, `CVPR`. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Dual_Task_Learning_by_Leveraging_Both_Dense_Correspondence_and_Mis-Correspondence_CVPR_2022_paper.pdf)] [[Code](https://github.com/SAMMiCA/SimSaC)]
 - `IDET`: Iterative Difference-Enhanced Transformers for High-Quality Change Detection, [[Paper]()] [[Code](https://arxiv.org/pdf/2207.09240)]
 - Selecting change image for efficient change detection, `IET Signal Processing`. [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/sil2.12095)]
@@ -179,6 +180,7 @@ This project is part of [UMAD](https://github.com/IMRL/UMAD). If you find this w
   organization={IEEE}
 }
 ```
+
 
 
 
